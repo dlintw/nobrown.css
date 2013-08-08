@@ -1,0 +1,27 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+/* all websites */
+#w015c124a9 {
+  display: none !important;
+}
+
+body {
+  padding-top: 0 !important;
+  background-position: 0% 0% !important;
+}
+
+/* plurk.com */
+@-moz-document domain("plurk.com") {
+  #page_title {
+    top: 2px !important;
+  }
+  #top_bar {
+    top: 6px !important;
+  }
+  #timeline_cnt, #timeline_bg {
+    top: 23px !important;
+  }
+  #bottom_line, #time_show {
+    top: 389px !important;
+  }
+}
