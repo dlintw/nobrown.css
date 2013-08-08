@@ -15,8 +15,6 @@ You must have Stylish installed:
 Click "Write New Style" and add all content from nobrown.css.
 That's all!
 
-## Help
-
 There are two quick tutorials for basic Stylish usage:
 
 * [Using Stylish for Firefox][use_stylish_fx]
@@ -25,6 +23,7 @@ There are two quick tutorials for basic Stylish usage:
 ## License
 
 This project is released under the [MIT license](LICENSE).
+Copyright (C) 2013 Carl X. Su.
 
 [stylish_fx]: https://addons.mozilla.org/zh-tw/firefox/addon/stylish/
 [stylish_cr]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe

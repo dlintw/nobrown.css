@@ -20,7 +20,7 @@
 
 ## 專案授權
 
-本專案以 [MIT 授權](LICENSE)釋出。
+本專案以 [MIT 授權](LICENSE)釋出，版權所有 (C) 2013 Carl X. Su。
 
 [stylish_fx]: https://addons.mozilla.org/zh-tw/firefox/addon/stylish/
 [stylish_cr]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe
