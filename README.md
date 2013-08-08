@@ -1,4 +1,4 @@
-## No Brown
+## No Brown CSS
 
 A set of CSS that fixes Mr. Brown banner to give you a better surfing
 experience.
